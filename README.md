@@ -8,8 +8,8 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 
 ## 🌐 Socials:
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png) 
-![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linnhtetaung/)
+[[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg?logo=)]](https://www.facebook.com/share/1BbvW96snW/)
 
 &#x20;&#x20;
 
