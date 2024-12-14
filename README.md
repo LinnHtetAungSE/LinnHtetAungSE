@@ -8,6 +8,9 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 
 ## 🌐 Socials:
 
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png) 
+![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)
+
 &#x20;&#x20;
 
 # 💻 Skills:
