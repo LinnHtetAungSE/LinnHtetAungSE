@@ -2,14 +2,14 @@
 
 I'm a passionate web developer specializing in **React.js** and **Next.js**, with additional experience in **Vue.js** and **Nuxt.js**. I enjoy working on both frontend and backend development, with expertise in **Node.js** and **Express.js** using **TypeScript**. I thrive on learning and adapting to new technologies, continuously enhancing my skills to deliver innovative and efficient solutions.
 
-📧 Reach me through mail ✉️[linnh3064@gmail.com](mailto\:linnh3064@gmail.com)
+📧 Reach me through mail ✉️ [linnh3064@gmail.com](mailto:linnh3064@gmail.com)
 
 💡 Fun fact: I love exploring new technologies and 🤔🛠️ challenging problems.
 
 ## 🌐 Socials:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linn-htet-aung-115b7226b/)
-![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/share/1BbvW96snW/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linn-htet-aung-115b7226b/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/share/1BbvW96snW/)
 
 &#x20;&#x20;
 
@@ -34,7 +34,6 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 ![C#](https://img.shields.io/badge/C%23-A020F0?style=plastic&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-A020F0?style=plastic&logo=.net&logoColor=white)
 
-
 ### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
@@ -42,12 +41,8 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### Tools & Version Control
 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
 ---
-
-
-
