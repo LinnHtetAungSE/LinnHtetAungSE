@@ -45,4 +45,10 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
+## 🎨 GitHub Stats
+
+![Linn Htet Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinnHtetAungSE&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinnHtetAungSE&layout=compact&theme=radical)
+
 ---
