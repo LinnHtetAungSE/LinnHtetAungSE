@@ -2,7 +2,7 @@
 
 I'm a passionate web developer specializing in **React.js** and **Next.js**, with additional experience in **Vue.js** and **Nuxt.js**. I enjoy working on both frontend and backend development, with expertise in **Node.js** and **Express.js** using **TypeScript**. I thrive on learning and adapting to new technologies, continuously enhancing my skills to deliver innovative and efficient solutions.
 
-📧 Reach me through mail ✉️ [linnh3064@gmail.com](mailto:linnh3064@gmail.com)
+📧 Reach me through mail ✉️ [linnhtet3064@gmail.com](mailto:linnhtet3064@gmail.com)
 
 💡 Fun fact: I love exploring new technologies and 🤔🛠️ challenging problems.
 
